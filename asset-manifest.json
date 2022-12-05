@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ec-general-culture-quiz/static/css/main.ce54fae3.css",
+    "main.js": "/ec-general-culture-quiz/static/js/main.4021d37a.js",
+    "index.html": "/ec-general-culture-quiz/index.html",
+    "main.ce54fae3.css.map": "/ec-general-culture-quiz/static/css/main.ce54fae3.css.map",
+    "main.4021d37a.js.map": "/ec-general-culture-quiz/static/js/main.4021d37a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce54fae3.css",
+    "static/js/main.4021d37a.js"
+  ]
+}
