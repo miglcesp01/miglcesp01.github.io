@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ec-general-culture-quiz/static/css/main.ce54fae3.css",
-    "main.js": "/ec-general-culture-quiz/static/js/main.df9b2b26.js",
+    "main.js": "/ec-general-culture-quiz/static/js/main.05b1c59f.js",
     "index.html": "/ec-general-culture-quiz/index.html",
     "main.ce54fae3.css.map": "/ec-general-culture-quiz/static/css/main.ce54fae3.css.map",
-    "main.df9b2b26.js.map": "/ec-general-culture-quiz/static/js/main.df9b2b26.js.map"
+    "main.05b1c59f.js.map": "/ec-general-culture-quiz/static/js/main.05b1c59f.js.map"
   },
   "entrypoints": [
     "static/css/main.ce54fae3.css",
-    "static/js/main.df9b2b26.js"
+    "static/js/main.05b1c59f.js"
   ]
 }
